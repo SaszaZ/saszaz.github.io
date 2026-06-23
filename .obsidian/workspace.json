@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekty/Solowe/67.md",
-                "mode": "preview",
+                "file": "Projekty/Solowe/Znikanie.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "67"
+              "title": "Znikanie"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projekty/Solowe/67.md",
+                "file": "Projekty/Solowe/Znikanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do 67"
+              "title": "Linki zwrotne do Znikanie"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projekty/Solowe/67.md",
+                "file": "Projekty/Solowe/Znikanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od 67"
+              "title": "Łącza wychodzące od Znikanie"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projekty/Solowe/67.md",
+                "file": "Projekty/Solowe/Znikanie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt 67"
+              "title": "Konspekt Znikanie"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "579d698acc54b0b2",
   "lastOpenFiles": [
+    "Projekty/Solowe/WOŁANIE.md",
+    "Projekty/Solowe/Te gorsze są kolorowe.md",
+    "Projekty/Solowe/Substytut.md",
+    "Projekty/Solowe/Rozmowa, która nigdy nie miała miejsca.md",
+    "Projekty/Solowe/Autoportret.md",
+    "Projekty/Solowe/67.md",
     "assets/images/67_1.JPG",
     "assets/images/67_2.JPG",
     "assets/images/57_1 (2).JPG",
@@ -194,13 +200,7 @@
     "assets/images",
     "assets",
     "index.md",
-    "Projekty/Solowe/Te gorsze są kolorowe.md",
     "Projekty/Solowe/Znikanie.md",
-    "Projekty/Solowe/Autoportret.md",
-    "Projekty/Solowe/Rozmowa, która nigdy nie miała miejsca.md",
-    "Projekty/Solowe/Substytut.md",
-    "Projekty/Solowe/WOŁANIE.md",
-    "Projekty/Solowe/67.md",
     "Projekty/Solowe",
     "Projekty/Kolektywne",
     "Projekty/W realizacji",

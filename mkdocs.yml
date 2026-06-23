@@ -1,7 +1,7 @@
 # Example of a more complicated config file for `MKDocs`
 # This one takes more action to handle formatting and theming
 
-site_name: Dan's Notes
+site_name: Sasza Zid
 theme:
   name: material
   features:
@@ -42,8 +42,8 @@ nav:
 markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: dan1229
-      repo: obsidian-dans-notes
+      user: SaszaZ
+      repo: saszaz.github.io
       normalize_issue_symbols: true
   - pymdownx.superfences
   - pymdownx.tasklist:
