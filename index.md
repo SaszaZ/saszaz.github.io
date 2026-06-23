@@ -23,15 +23,14 @@ W praktyce twórczej posługuję się zwykle szeroko rozumianymi nowymi mediami 
 
 ## Indeks Projektów
 
-* [[Czy często Ci się to zdarza?]] (2026) – Projekt intermedialny
-* [[67]] (2026) – Gra karciana i jej instrukcja 
-* [[WOŁANIE]] (2025) – Instalacja intermedialna i działanie performatywne 
-* [[Substytut]] (2024/2025) – Tablice PCV i działanie w przestrzeni publicznej
-* [[Rozmowa, która nigdy nie miała miejsca]] (2024/2025) – Film i słuchowisko AI 
-* [[Autoportret]] (2023) – Film 
-* [[Znikanie]] (2023) – Cykl fotografii, fotomontaż
-* [[Te gorsze są kolorowe]] (2021) – Cykl fotografii cyfrowej, glitchart
-* 
+* [Czy często Ci się to zdarza?]() (2026) – Projekt intermedialny
+* [67](Projekty/Solowe/67.md) (2026) – Gra karciana i jej instrukcja 
+* [WOŁANIE](Projekty/Solowe/WOŁANIE.md) (2025) – Instalacja intermedialna i działanie performatywne 
+* [Substytut](Projekty/Solowe/Substytut.md) (2024/2025) – Tablice PCV i działanie w przestrzeni publicznej
+* [Rozmowa, która nigdy nie miała miejsca](Projekty/Solowe/Rozmowa, która nigdy nie miała miejsca.md) (2024/2025) – Film i słuchowisko AI 
+* [Autoportret](Projekty/Solowe/Autoportret.md) (2023) – Film 
+* [Znikanie](Projekty/Solowe/Znikanie.md) (2023) – Cykl fotografii, fotomontaż
+* [Te gorsze są kolorowe](Projekty/Solowe/Te gorsze są kolorowe.md) (2021) – Cykl fotografii cyfrowej, glitchart
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekty/Solowe/Te gorsze są kolorowe.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Te gorsze są kolorowe"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projekty/Solowe/Te gorsze są kolorowe.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Te gorsze są kolorowe"
+              "title": "Linki zwrotne do index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projekty/Solowe/Te gorsze są kolorowe.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące od Te gorsze są kolorowe"
+              "title": "Łącza wychodzące od index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projekty/Solowe/Te gorsze są kolorowe.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Konspekt Te gorsze są kolorowe"
+              "title": "Konspekt index"
             }
           }
         ]
@@ -186,12 +186,13 @@
   "active": "579d698acc54b0b2",
   "lastOpenFiles": [
     "Projekty/Solowe/67.md",
+    "index.md",
     "Projekty/Solowe/Autoportret.md",
+    "Projekty/Solowe/Rozmowa, która nigdy nie miała miejsca.md",
     "Projekty/Solowe/Znikanie.md",
     "Projekty/Solowe/WOŁANIE.md",
     "Projekty/Solowe/Te gorsze są kolorowe.md",
     "Projekty/Solowe/Substytut.md",
-    "Projekty/Solowe/Rozmowa, która nigdy nie miała miejsca.md",
     "assets/images/67_1.JPG",
     "assets/images/67_2.JPG",
     "assets/images/57_1 (2).JPG",
@@ -200,7 +201,6 @@
     "assets/images/P1450583.JPG",
     "assets/images",
     "assets",
-    "index.md",
     "Projekty/Solowe",
     "Projekty/Kolektywne",
     "Projekty/W realizacji",
